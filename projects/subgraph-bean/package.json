@@ -1,5 +1,5 @@
 {
-  "name": "Bean-Subgraph",
+  "name": "subgraph-bean",
   "license": "MIT License",
   "scripts": {
     "codegen": "graph codegen",
@@ -12,5 +12,6 @@
   "dependencies": {
     "@graphprotocol/graph-cli": "0.21.1",
     "@graphprotocol/graph-ts": "0.20.0"
-  }
+  },
+  "private": true
 }
